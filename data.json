@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "Lower Body": [
+      "Squats",
+      "Lunges"
+    ],
+    "Upper Body": [
+      "Push-ups",
+      "Pull-ups"
+    ],
+    "Core": [
+      "Planks",
+      "Crunches"
+    ]
+  },
+  "programs": [
+    {
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "sets": "2",
+          "reps": "5",
+          "holdTime": "1",
+          "side": "Left"
+        },
+        {
+          "name": "Pull-ups",
+          "sets": "2",
+          "reps": "5",
+          "holdTime": "1",
+          "side": "Right"
+        }
+      ],
+      "sessionsPerDay": 1,
+      "days": {
+        "M": true,
+        "T": false,
+        "W": false,
+        "F": true,
+        "S": false
+      },
+      "therapistNotes": "Good body result of good workout"
+    }
+  ]
+}
