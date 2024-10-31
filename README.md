@@ -3,11 +3,13 @@
   **Backend**
 
   npm install
+  
   node index.js
 
  **Frontend**
 
  npm install
+ 
  npm run dev
 
 
